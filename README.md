@@ -10,6 +10,8 @@ Users: https://github.com/vinayhospete/Handson-connect/blob/main/hands-on-user.t
 ## Smart Helpers
 System: https://my313815.s4hana.ondemand.com/ui#Shell-home
 
+[Exercise](AI-assisted-task-automation-tutorial_v1.0.pdf)
+
 Logon User: `tester<id>_shpal26@example.com` (ID = `001` to `060`)
 
 Logon Password: `Helper2026!`
