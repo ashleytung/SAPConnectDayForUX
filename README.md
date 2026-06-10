@@ -15,4 +15,6 @@ System: https://my313815.s4hana.ondemand.com/ui#Shell-home
 Logon User: `tester<id>_shpal26@example.com` (ID = `001` to `060`)
 
 Logon Password: `Helper2026!`
+
+To open sales order: https://my313815.s4hana.ondemand.com/ui#SalesOrder-manageV2&/SalesOrderManage('[sales_order_number') (i.e. `463`)
  
