@@ -1,6 +1,8 @@
 <img width="1135" height="342" alt="image" src="https://github.com/user-attachments/assets/0079c96a-5bda-4e34-b553-e40254051a87" />
 
 
+**Quick link: https://tinyurl.com/SAPConnectDayForUX**
+
 # Hands on Exercises
 
 ## SAP Fiori elements and Fiori tools
