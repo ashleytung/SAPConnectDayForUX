@@ -10,7 +10,7 @@ Users: https://github.com/vinayhospete/Handson-connect/blob/main/hands-on-user.t
 ## Smart Helpers
 System: https://my313815.s4hana.ondemand.com/ui#Shell-home
 
-[Exercise](AI-assisted-task-automation-tutorial_v1.0.pdf). Start from Step 1 in Page 6. 
+Start from Step 1 in Page 6 in [this](AI-assisted-task-automation-tutorial_v1.0.pdf) exercise. 
 
 Logon User: `tester<id>_shpal26@example.com` (ID = `001` to `060`)
 
