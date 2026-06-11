@@ -14,7 +14,9 @@ Users: https://github.com/vinayhospete/Handson-connect/blob/main/hands-on-user.t
 ## Smart Helpers
 
 1. Open the link to the system as a new tab: https://my313815.s4hana.ondemand.com/ui#Shell-home
+
 Logon User: `tester<id>_shpal26@example.com` (ID = `001` to `060`)
+
 Logon Password: `Helper2026!`
 
 2. Open sales order as a new tab: https://my313815.s4hana.ondemand.com/ui#SalesOrder-manageV2&/SalesOrderManage('[sales_order_number]') (i.e. `500`)
